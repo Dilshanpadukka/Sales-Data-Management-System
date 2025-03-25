@@ -2,7 +2,13 @@
 
 A modern web application for managing sales data with a user-friendly interface, custom fields, and Excel-like functionality.
 
-![Sales Data Management System]
+![image](https://github.com/user-attachments/assets/c0bcae3c-45cc-4797-8634-6e3c4aecf058)
+![image](https://github.com/user-attachments/assets/02ba73a9-c967-4cbe-87e6-e9a204c559da)
+![image](https://github.com/user-attachments/assets/3b2bf05d-918e-4afd-a79d-78a6cc1fd4a7)
+![image](https://github.com/user-attachments/assets/cc1afe73-a755-402f-b81d-55a0161adcd2)
+
+
+
 
 ## Features
 
@@ -35,7 +41,7 @@ A modern web application for managing sales data with a user-friendly interface,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sales-data-management.git
+   git clone https://github.com/Dilshanpadukka/Sales-Data-Management-System.git
    cd sales-data-management
    ```
 
